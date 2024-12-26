@@ -1,5 +1,7 @@
 ## Advent Of SQL 2024
 
+![Progress](./image/progress.png)
+
 https://solvesql.com/collections/advent-of-sql-2024/
 
 ---
@@ -13,5 +15,9 @@ https://solvesql.com/collections/advent-of-sql-2024/
 [08. 온라인 쇼핑몰의 월 별 매출액 집계](./Solve/08.%20온라인%20쇼핑몰의%20월%20별%20매출액%20집계.md)
 
 [09. 게임 평점 예측하기 1](./Solve/09.%20게임%20평점%20예측하기%201.md)
+
+[10. 최대값을 가진 행 찾기](./Solve/10.%20최대값을%20가진%20행%20찾기.md)
+
+[11. 서울숲 요일별 대기오염도 계산하기](./Solve/11.%20서울숲%20요일별%20대기오염도%20계산하기.md)
 
 [16. 스테디셀러 작가 찾기](./Solve/16.%20스테디셀러%20작가%20찾기.md)
